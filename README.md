@@ -20,14 +20,6 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://medium.com/@gab_bash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gab_bash" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gponciano" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
