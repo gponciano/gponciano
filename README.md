@@ -14,18 +14,20 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></td>
+  </tr>
+</table>
 
 ---
 
