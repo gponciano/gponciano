@@ -32,10 +32,16 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gponciano&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gponciano&layout=compact&theme=radical" alt="languages" height="180"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gponciano&show_icons=true&theme=radical" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gponciano&layout=compact&theme=radical" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
