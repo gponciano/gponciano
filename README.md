@@ -2,13 +2,6 @@
 <h1 align="center">👋 Hey GitHubbers, I'm Gabriel 🚀</h1>
 <h3 align="center">💻 Engineering the Cloud | AWS • Terraform • Python • Linux • DevOps Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gponciano&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <a href="https://medium.com/@gab_bash" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
